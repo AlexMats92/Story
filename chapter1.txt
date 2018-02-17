@@ -1,3 +1,1 @@
-My first chapter.
-
-Hello World!
+Hello Zombie World!
